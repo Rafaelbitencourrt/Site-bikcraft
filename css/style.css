@@ -56,7 +56,7 @@ a {
   }
 }
 
-@media (mas-width: 600px) {
+@media (max-width: 600px) {
   .header-menu {
     gap: 12px;
   }
